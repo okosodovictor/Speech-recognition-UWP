@@ -1,0 +1,1 @@
+c:\Projects\RecognizingSpeech\RecognizingSpeech\RecognizingSpeech.csproj;x86
